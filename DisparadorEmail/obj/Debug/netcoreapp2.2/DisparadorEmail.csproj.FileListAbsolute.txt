@@ -1,0 +1,12 @@
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.dll.config
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.deps.json
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.runtimeconfig.json
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.runtimeconfig.dev.json
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.dll
+C:\Projetos\DisparadorEmail\DisparadorEmail\bin\Debug\netcoreapp2.2\DisparadorEmail.pdb
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.csprojAssemblyReference.cache
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.csproj.CoreCompileInputs.cache
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.AssemblyInfoInputs.cache
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.AssemblyInfo.cs
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.dll
+C:\Projetos\DisparadorEmail\DisparadorEmail\obj\Debug\netcoreapp2.2\DisparadorEmail.pdb
